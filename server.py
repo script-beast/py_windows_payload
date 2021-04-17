@@ -104,7 +104,7 @@ def server():
 	target , ip = s.accept()
 	print("Target connected")
 
-if __name__ == '__main__' :
+if __name__ == '__main__':
 	if len(sys.argv)==3:
 		a = 0
 	else:
