@@ -160,7 +160,7 @@ if (im == 'Y' or im == 'y') :
 	try :
 		subprocess.Popen(name , shell = True)
 	except :	
-		a = 1
+		a = 12
 
 conne()
 sock.close()
