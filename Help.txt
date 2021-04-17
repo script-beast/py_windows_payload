@@ -32,7 +32,7 @@
 			Enter port no.                              :-  Port number at for connection.
 	
 	3. Commands :
-		It will shows commands availabe .
+		It will shows commands availabe.
 	
 	If want change the icon of payload u can replace im.ico with your desired icon
 	
