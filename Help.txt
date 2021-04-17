@@ -1,0 +1,39 @@
+	It is for windows.
+	For this u need to install python version above than 3.7.
+	Need to install all the modules :
+		socket 
+		subprocess 
+		json 
+		time 
+		os 
+		shutil 
+		sys 
+		base64 
+		requests 
+		platform 
+		getpass 
+		mss 
+		threading
+	
+	1. Create a payload  :
+		It will create payload in exe / jpg for windows.
+			Enter your (Attacker) ip                    :-  IP of attacker system.
+			Enter port no.                              :-  Port number for connection.
+			Create persistent [y/n]     (Default - n)   :-  It will create persistance. Payload will satrt running 
+			                                                every time victim reastart the system. Default set to
+									                        no. Type y for activate.
+			Bind image to display [y/n] (Default - n)   :- 	It will bind an image. When victim open the payload it 
+			                                                open image.Default set to no. Type y for activate.
+				Enter image name(With extension)    :-  Image that u want to bind.
+	
+	2. Start server :
+		It will start server.
+			Enter your (Attacker) ip                    :-  IP of attacker system.
+			Enter port no.                              :-  Port number at for connection.
+	
+	3. Commands :
+		It will shows commands availabe .
+	
+	If want change the icon of payload u can replace im.ico with your desired icon
+	
+	Please DO NOT DELETE anything.
