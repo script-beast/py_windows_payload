@@ -214,6 +214,6 @@ def menu():
 		else :
 			sys.exit(" Exiting .....")
 
-if __name__ == '__main__' :
+if __name__ == '__main__':
 	checking()
 	menu()
